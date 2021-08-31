@@ -5,8 +5,11 @@
   - 🌱 I’m currently learning React.
   - 😄 Pronouns: she/her.
   - 🗣️ I speak English, Portuguese, and basic French.
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizamedeiros&theme=tokyonight">
+  
+  <div style= "display: inline=block">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=luizamedeiros&theme=tokyonight">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizamedeiros&theme=tokyonight">
+  </div>
   <div style="display: inline-block>
     <img align="center" height="30" width ="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" height="30" width ="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
