@@ -1,8 +1,8 @@
 <h1>Hi there! My name is Luiza.</h1>
 
   - 💬 I'm a second year/third semester Information Systems undergrad student, at the Federal University of Santa Catarina (UFSC). I'm also a student at Senai's Fullstack Jr Developer acceleration program.
-  - 🔭 I’m currently working on projects using front-end languages and libraries.
-  - 🌱 I’m currently learning React.
+  - 🔭 I really enjoy working on front-end projects.
+  - 🌱 I’m currently learning Java.
   - 😄 Pronouns: she/her.
   - 🗣️ I speak native English, native Portuguese, and basic French.
   
