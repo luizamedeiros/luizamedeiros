@@ -1,6 +1,6 @@
 <h1>Hey there! I'm Luiza.</h1>
 
-  - 💬 I'm a second year/third semester Information Systems undergrad student, at the Federal University of Santa Catarina (UFSC). I'm also a student at Senai's Fullstack Jr Developer acceleration program.
+  - 💬 I'm a second year/fourth semester Information Systems undergrad student, at the Federal University of Santa Catarina (UFSC). I'm also a student at Senai's Fullstack Jr Developer acceleration program.
   - 🔭 I really enjoy working on front-end projects.
   - 🌱 I’m currently learning Java.
   - 😄 Pronouns: she/her.
