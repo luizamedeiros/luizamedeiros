@@ -4,7 +4,7 @@
   - 💻 I really enjoy working on front-end projects using React.
   - 🤓 I’m currently learning Spring Boot and TypeScript.
   - 💭 Pronouns: she/her.
-  - 💬 I speak native English, native Portuguese, and basic French.
+  - 🇨🇦🇧🇷 I speak native English, native Portuguese, and basic French.
   
   <div>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luizamedeiros&custom_title=My%20GitHub%20Stats%0A%0A&theme=tokyonight">
