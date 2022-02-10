@@ -2,7 +2,7 @@
 
   - 💬 I'm a second year/fourth semester Information Systems undergrad student, at the Federal University of Santa Catarina (UFSC). I'm also a student at Senai's Fullstack Jr Developer acceleration program.
   - 🔭 I really enjoy working on front-end projects using React.
-  - 🌱 I’m currently learning Java, Spring, and TypeScript.
+  - 🌱 I’m currently learning Spring Boot and TypeScript.
   - 😄 Pronouns: she/her.
   - 🗣️ I speak native English, native Portuguese, and basic French.
   
