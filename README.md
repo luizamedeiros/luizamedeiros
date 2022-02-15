@@ -8,7 +8,7 @@
   
   <div>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luizamedeiros&custom_title=My%20GitHub%20Stats%0A%0A&theme=tokyonight">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizamedeiros&count_private=true&show_icons=true&langs_count=5&custom_title=My%20Most%20Used%20Languages%0A%0A&theme=tokyonight&layout=compact">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizamedeiros&count_private=true&show_icons=true&langs_count=6&custom_title=My%20Most%20Used%20Languages%0A%0A&theme=tokyonight&layout=compact">
    </div>
   <div style="display: inline-block">
     <img align="center" height="45" width ="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
