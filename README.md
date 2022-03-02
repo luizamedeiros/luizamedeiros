@@ -1,4 +1,4 @@
-<h1>Hey there! I'm Luiza.</h1>
+<h1>Nice to meet you! I'm Luiza.</h1>
 
   - 📚 I'm a second year/fourth semester Information Systems undergrad student, at the Federal University of Santa Catarina (UFSC), in Florianópolis, Brazil. I'm also a student at Senai's Full Stack Junior Developer program.
   - 💻 I'm a Full Stack dev intern at <a href="https://involves.com/">Involves</a>.
