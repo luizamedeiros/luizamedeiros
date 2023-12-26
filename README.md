@@ -6,7 +6,7 @@
   - 🇨🇦🇧🇷 I speak native English, native Portuguese, and basic French.
   
   <div>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luizamedeiros&custom_title=My%20GitHub%20Stats%0A%0A&theme=tokyonight">
+<!--     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luizamedeiros&custom_title=My%20GitHub%20Stats%0A%0A&theme=tokyonight"> -->
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizamedeiros&count_private=true&show_icons=true&langs_count=6&custom_title=My%20Most%20Used%20Languages%0A%0A&theme=tokyonight&layout=compact">
    </div>
   <div style="display: inline-block">
