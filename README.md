@@ -1,7 +1,7 @@
 <h1>Nice to meet you! I'm Luiza.</h1>
 
   - 📚 I'm a fifth-year/final semester Information Systems undergrad student, at the Federal University of Santa Catarina (UFSC), in Florianópolis, Brazil. I've recently graduated from Senai's Full Stack Junior Developer program (Spring Boot & React).
-  - 🤓 I’m currently working mostly with React and Java.
+  - 🤓 I’m currently working mostly with React and Java, as a Fullstack development fellow at Laboratório bridge.
   - 💭 Pronouns: she/her.
   - 🇨🇦🇧🇷 I speak native English, native Portuguese, and basic French.
   
