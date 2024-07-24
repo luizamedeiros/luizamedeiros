@@ -1,6 +1,6 @@
 <h1>Nice to meet you! I'm Luiza.</h1>
 
-  - 📚 I'm getting my bachelor's degree in Information Systems, from the Federal University of Santa Catarina (UFSC), in Florianópolis, Brazil. I've recently graduated from Senai's Full Stack Junior Developer program (Spring Boot & React).
+  - 📚 I've finished my undergraduate studies, and I'll soon be receiving my bachelor's degree in Information Systems, from the Federal University of Santa Catarina (UFSC), in Florianópolis, Brazil. I've recently graduated from Senai's Full Stack Junior Developer program (Spring Boot & React).
   - 🤓 I’m currently working with PHP, Zend Framework, HTML, CSS, and JavaScript. During my previous role, I worked with React and Java.
   - 🇨🇦🇧🇷 I speak native English, native Portuguese, and B1 French.
   
