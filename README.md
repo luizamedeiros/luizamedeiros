@@ -1,8 +1,8 @@
 <h1>Nice to meet you! I'm Luiza.</h1>
 
-  - 📚 I'm a fifth-year/final semester Information Systems undergrad student, at the Federal University of Santa Catarina (UFSC), in Florianópolis, Brazil. I've recently graduated from Senai's Full Stack Junior Developer program (Spring Boot & React).
-  - 🤓 I’m currently working mostly with React and Java, as a Fullstack development fellow at Laboratório bridge.
-  - 🇨🇦🇧🇷 I speak native English, native Portuguese, and basic French.
+  - 📚 I'm getting my bachelor's degree in Information Systems, from the Federal University of Santa Catarina (UFSC), in Florianópolis, Brazil. I've recently graduated from Senai's Full Stack Junior Developer program (Spring Boot & React).
+  - 🤓 I’m currently working with PHP, Zend Framework, HTML, CSS, and JavaScript. During my previous role, I worked with React and Java.
+  - 🇨🇦🇧🇷 I speak native English, native Portuguese, and B1 French.
   
   <div>
 <!--     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luizamedeiros&custom_title=My%20GitHub%20Stats%0A%0A&theme=tokyonight"> -->
